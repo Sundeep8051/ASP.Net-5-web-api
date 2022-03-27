@@ -56,7 +56,6 @@ namespace SampleWebapi
                     ValidateAudience = false,
                     ValidateLifetime = true,
                     RequireExpirationTime = false
-
                 };
 
             });
